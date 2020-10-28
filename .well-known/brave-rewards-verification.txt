@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ashwin-paudel.github.io
+Token: 291d8b676902208ed6652bcc94b63ca7a4d8f284225d8cb7378117ce3b7cfb1e
